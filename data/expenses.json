@@ -1,0 +1,34 @@
+{
+    "expenses": [
+        {
+            "id": "ec549a42-3a56-4fd2-b8b5-8ce9ce67bcdc",
+            "recurringID": "",
+            "name": "Food",
+            "tags": [],
+            "category": "Food",
+            "amount": 15000,
+            "currency": "",
+            "date": "2025-09-19T09:20:24Z"
+        },
+        {
+            "id": "2c5d752d-4656-463c-bb13-72f8e6ccc581",
+            "recurringID": "",
+            "name": "bitrdf",
+            "tags": [],
+            "category": "Food",
+            "amount": -23456,
+            "currency": "",
+            "date": "2025-09-19T09:20:37Z"
+        },
+        {
+            "id": "37affc67-1a97-4c07-a4fe-b0d14f72f78e",
+            "recurringID": "",
+            "name": "asdfgh",
+            "tags": [],
+            "category": "Food",
+            "amount": -12345,
+            "currency": "",
+            "date": "2025-09-19T09:21:18Z"
+        }
+    ]
+}
